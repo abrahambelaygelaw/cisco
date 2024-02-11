@@ -25,7 +25,7 @@ import PublicLayout from "./components/publicLayout";
 import About from "./pages/about";
 import NewsDetail from "./features/news/ui/newsDetail";
 import NewsSection from "./features/news/ui/newsSection";
-import CoursePublicListPage from "./features/courses/ui/coursePubliclistPage";
+import CoursePublicListPage from "./features/courses/ui/coursePublicListPage";
 import PotectedRoute from "./utils/protectedRoute";
 import Login from "./features/auth/ui/loginPage";
 import RegistrationPage from "./features/registree/ui/registrationPage";
